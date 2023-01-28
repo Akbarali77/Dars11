@@ -1,0 +1,359 @@
+body{
+    background-color:#171836 ;
+    color: white;
+}
+.Div1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ul-li{
+    display: flex;
+    list-style: none;
+width: 100%;
+justify-content: space-around;
+align-items: center;
+}
+
+
+.ong{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    
+}
+button{
+    height: 25px;
+    width: 43%;
+    background-color: red;
+    border-radius: 5px;
+    border: none;
+}
+button:hover{
+    background-color: #212253;
+color: wheat;
+cursor: pointer;
+}
+.ong img{
+    width: 40%;
+}
+.chap2{
+    background-image: url(./student\ hero\ section.png);
+    width: 50%;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.img{
+    background-color:#3f458d;
+    width: 10%;
+    height: 60px;
+    border-radius: 15px;
+    margin-top: 170px;
+    margin-left: 120px;
+}
+.img2{
+    background-color:#3f458d;
+    width: 10%;
+    height: 60px;
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-bottom: 110px;
+}
+.Div2{
+    display: flex;
+    justify-content: space-around;
+}
+.ong2{
+    padding: 120px 0px 0px 50px ;
+    font-size: 25px;
+}
+.p{
+    color: #212253;
+}
+input{
+    width: 70%;
+    height: 30px;
+    background-color:#252a68 ;
+    border: none;
+    color:#212253 ;
+    border-radius: 10px;
+}
+.button1{
+width: 24%;
+height: 30px;
+background-color: #252a68;
+border: solid wheat 1px;
+color: wheat;
+border-radius: 8px;
+}
+.button2{
+    width: 30%;
+    height: 30px;
+    background-color: #252a68;
+border: solid wheat 1px;
+color: wheat;
+border-radius: 8px;
+ }
+ .button3{
+    width: 35%;
+    height: 30px;
+    background-color: #252a68;
+border: solid wheat 1px;
+color: wheat;
+border-radius: 8px;
+ }
+ .button4{
+    width: 36%;
+    height: 30px;
+    background-color: #252a68;
+border: solid wheat 1px;
+color: wheat;
+margin-top: 20px;
+border-radius: 8px;
+ }
+ .button5{
+    width: 25%;
+    height: 30px;
+    background-color: #252a68;
+border: solid wheat 1px;
+color: wheat;
+margin-top: 20px;
+border-radius: 8px;
+ }
+ input:hover{
+    color: white;
+ }
+ .ikta1 button:hover{
+    cursor: pointer;  
+      background-color: white;
+    color: black;
+ }
+ .li:hover{
+    color: black;
+ }
+ .img3{
+    margin-top: 420px;
+    margin-left: 300px;
+ }
+ .Div3{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 250px;
+ }
+ .katta1{
+    display: flex;
+ }
+ .img4{
+height: 35px;
+align-items: center;
+ }
+ .soz1{
+    text-align: center;
+    margin-top: 90px;
+ }
+ .button6{
+    height: 30px;
+    width:50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+ }
+ .past1{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+ }
+ .Div5{
+    display: flex;
+    justify-content: space-around;
+ }
+ .past2{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    text-align: center;
+    align-items: center;
+ }
+ .chap4{
+    background-color: #212253;
+    border:solid #3f458d 2px ;
+    width: 20%;
+  border-radius: 19px;
+  height: 450px;
+  padding:30px 0px 0px 20px  ;
+ }
+ .orta4{
+    background-color: #212253;
+    border:solid #3f458d 2px ;
+    width: 20%;
+  border-radius: 19px;
+  height: 370px;
+  padding:30px 0px 0px 20px  ;
+ }
+ .button7{
+    background-color: #171836;
+    border: solid red 2px;
+    width: 13%;
+    color: red;
+ }
+ .soz2{
+    text-align: center;
+    margin-top: 100px;
+
+ }
+ .p2{
+    color: cornflowerblue;
+ }
+ .p3{
+    color:rgb(26, 25, 58);
+ }
+ .p4{
+    color: #6d6161;
+ }
+ .soz3{
+    text-align: center;
+    margin-top: 160px;
+ }
+ .Div6{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 200px;
+ }
+ .img6{
+    width: 38%;
+    height: 400px;
+ }
+ .soz4{
+    text-align: center;
+    margin-top: 100px;
+ }
+ .tepa{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    align-items: center;
+    padding-left: 40px;
+ }
+ .p5{
+color: red;
+font-size: 25px;
+ }
+ .p6{
+    font-size: 13px;
+    color: red;
+ }
+ .div1{
+    display: flex;
+    justify-content: space-around;
+ }
+ .Div7{
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-around;
+ }
+.chiziq{
+   width: 90%;
+ border-bottom: solid #252a68 2px;
+ }
+ .ong4{
+   background-color: #212253;
+   width: 25%;
+   border-radius: 20px; 
+   height: 600px;
+   padding: 50px 0px 0px 50px ;
+   font-size: 20px;
+ }
+ .img7{
+   border: solid green 2px;
+ padding: 5px 5px 5px 5px ;
+ border-radius: 5px;
+ }
+ .img8{
+   border: solid blue 2px;
+   border-radius: 5px;
+ }
+ .img9{
+   border: solid yellowgreen 2px;
+   padding: 5px 5px 5px 5px ;
+   border-radius: 5px;
+ }
+ .button8{
+   height: 30px;
+   width: 90%;
+ background-color: #212253;
+ border-radius: 10px;
+ border: solid rgb(109, 7, 7) 2px;
+ color: rgb(109, 7, 7) ;
+ margin-top: 175px;
+ } .button9{
+   height: 30px;
+   width: 90%;
+ background-color: #212253;
+ border-radius: 10px;
+ border: solid red 2px;
+ color: rgb(255, 0, 0) ;
+ margin-top: 150px;
+ }
+ 
+ .button10{
+   height: 30px;
+   width: 90%;
+ background-color: #212253;
+ border-radius: 10px;
+ border: solid red 2px;
+ color: white;
+ background-color: red;
+ margin-top: 55px;
+ }
+ .Div8{
+   display: flex;
+   justify-content: space-around;
+   background-color: #3f458d;
+   width: 90%;
+   border-radius: 20px;
+   height: 500px;
+   margin-left: 60px;
+   margin-top: 100px;
+ }
+ .chap5{
+   padding: 115px 0px 0px 50px ;
+   font-size: 25px;
+ }
+ 
+.ong5{
+   margin-top: 106px ;
+}
+.past4{
+align-items: center;
+display: flex;
+justify-content: space-around;
+}
+.ong6{
+   display: flex;
+   justify-content: space-around;
+   width:80%;
+}
+.Div9{
+   display: flex;
+   margin-top: 100px;
+   justify-content: space-around;
+}
+.h4{
+   color:wheat;
+}
+.chap6{
+   margin-left: 20px ;
+}
+.h4:hover{
+   cursor: pointer;
+   color: #3f458d;
+
+}
+.soz5 p:hover{
+   cursor: pointer;
+   color: #3f458d;
+}
